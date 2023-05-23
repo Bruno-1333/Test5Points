@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test5Points</string>
+
+    <string-array name="pays">
+        <item>Canada</item>
+        <item>Tunisie</item>
+        <item>USA</item>
+        <item>France</item>
+        <item>Allemagne</item>
+    </string-array>
+</resources>
